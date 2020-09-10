@@ -21,7 +21,7 @@ public class QuizRunner {
 
         newQuiz.addQuestion(checkQ);
 
-        TrueFalseQuestion booleanQ = new TrueFalseQuestion("\nTrue or false: Zweilious is not a dragon type.", "false");
+        TrueFalseQuestion booleanQ = new TrueFalseQuestion("\nTrue or false: Zweilous is not a dragon type.", "false");
 
         newQuiz.addQuestion(booleanQ);
 
